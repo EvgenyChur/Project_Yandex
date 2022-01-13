@@ -7,7 +7,7 @@ Projects description:
 <table>
 <tr>
 <td><b>Number</b></td>
-<td><b>Title (+ссылка)</b></td>
+<td><b>Title (+link)</b></td>
 <td><b>Project essence</b></td>
 <td><b>Used modules</b></td>
 <tr>
