@@ -1,15 +1,15 @@
-# Project_Yandex
-Self-study and practical work completed as part of Yandex refresher courses
-# <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Яндекс.Практикум "Аналитик данных"</b></a>
-## Репозиторий содержит выполненные мной проекты в рамках обучения на курсах профессиональной переподготовки
+
+# <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Yandex.Praktikum "Data Analyst course"</b></a>
+
+## The repository contains projects I completed as part of my retraining course:
 <br/><br/><br/>
-Описание всех проектов:
+Projects description:
 <table>
 <tr>
-<td><b>Номер</b></td>
-<td><b>Название (+ссылка)</b></td>
-<td><b>Суть проекта</b></td>
-<td><b>Используемые библиотеки</b></td>
+<td><b>Number</b></td>
+<td><b>Title (+ссылка)</b></td>
+<td><b>Project essence</b></td>
+<td><b>Used modules</b></td>
 <tr>
 <td><b>1</b></td>
 <td><a href="ссылка" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
