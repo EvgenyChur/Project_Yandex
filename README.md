@@ -18,12 +18,12 @@ Projects description:
 <tr>
 <td><b>2</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_2.ipynb" target="_blank"><b>Borrower reliability study</b></a></td>
-<td>The client is the bank's credit department. We need to find out if the client's marital status and number of children affects whether the loan is repaid on time. The input from the bank is statistics on the repayment capacity of the clients. </td>
+<td>The client is the bank's credit department. We need to find out if the client's marital status and number of children affects whether the loan is repaid on time.</td>
 <td><b>pandas</b>, <b>numpy</b></td>
 <tr>
 <td><b>3</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_3.ipynb" target="_blank"><b>Researching advertisements for flats</b></a></td>
-<td>You have at your disposal data from Yandex.Real Estate - an archive of advertisements for flats for sale in St. Petersburg and neighbouring localities for several years. You need to learn how to determine the market value of properties. Your task is to set the parameters. </td>
+<td>The Yandex.Real Estate server give you an archive data of sale flat advertisements in St. Petersburg and Leningradskay region for several years. You have to determine the market value of properties and get the parameters affecting on the price of flats. </td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
 <tr>  
 </table>
