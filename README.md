@@ -1,8 +1,7 @@
 
 # <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Yandex.Praktikum "Data Analyst course"</b></a>
 
-## The repository contains projects I completed as part of my retraining course:
-<br/><br/><br/>
+<br/>
 Projects description:
 <table>
 <tr>
