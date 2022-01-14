@@ -16,3 +16,7 @@ Projects description:
 <td>Test and compare users behaviour in the two capitals using real data from Yandex.Music </td>
 <td><b>pandas</b></td>
 <tr>
+
+  
+</table>
+<br/><br/>
