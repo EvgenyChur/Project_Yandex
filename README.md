@@ -24,7 +24,7 @@ Projects description:
 <td><b>3</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_3.ipynb" target="_blank"><b>Researching advertisements for flats</b></a></td>
 <td>You have at your disposal data from Yandex.Real Estate - an archive of advertisements for flats for sale in St. Petersburg and neighbouring localities for several years. You need to learn how to determine the market value of properties. Your task is to set the parameters. </td>
-<td><b>pandas   </b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
+<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
 <tr>  
 </table>
 <br/><br/>
