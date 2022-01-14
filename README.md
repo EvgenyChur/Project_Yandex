@@ -17,7 +17,7 @@ Projects description:
 <td><b>pandas</b></td>
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_2.ipynb" target="_blank"><b>Yandex banking/b></a></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_2.ipynb" target="_blank"><b>Yandex banking</b></a></td>
 <td>The client is the bank's credit department. We need to find out if the client's marital status and number of children affects whether the loan is repaid on time.</td>
 <td><b>pandas</b>, <b>numpy</b></td>
 <tr>
