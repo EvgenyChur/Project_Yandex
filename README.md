@@ -31,13 +31,13 @@ Projects description:
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>scipy</b>, <b>warnings</b>, <b>datetime</b>, <b>calendar</b></td>
 <tr>
 <td><b>5</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_5.ipynb" target="_blank"><b>Yandex Summary</b></a></td>
-<td>The Yandex.Real Estate server give you an archive data of sale flat advertisements in St. Petersburg and Leningradskay region for several years. You have to determine the market value of properties and get the parameters affecting on the price of flats. </td>
-<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_5.ipynb" target="_blank"><b>Yandex Games</b></a></td>
+<td>Add new description.</td>
+<td><b>pandas</b>, <b>numpy</b>, <b>datetime</b>, <b>scipy</b>, <b>matplotlib</b>, <b>calendar</b>, <b>seaborn</b>, <b>warnings</b>, </td>
 <tr>  
 <td><b>6</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_6.ipynb" target="_blank"><b>Yandex SQL</b></a></td>
-<td>The Yandex.Real Estate server give you an archive data of sale flat advertisements in St. Petersburg and Leningradskay region for several years. You have to determine the market value of properties and get the parameters affecting on the price of flats. </td>
+<td>Add new description </td>
 <td><b>SQL</b></td>  
 <tr>
 <td><b>7</b></td>
