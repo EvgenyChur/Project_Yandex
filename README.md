@@ -37,12 +37,25 @@ Projects description:
 <tr>  
 <td><b>6</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_6.ipynb" target="_blank"><b>Yandex SQL</b></a></td>
-<td>Add new description </td>
+<td>I have to analyze data with information about Startup Investment and get knowledge how to work with data bases by SQL requests.</td>
 <td><b>SQL</b></td>  
 <tr>
 <td><b>7</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_7.ipynb" target="_blank"><b>Yandex Marketing</b></a></td>
-<td>Add new description. </td>
+<td>There is data with information about marketing. My company suffers financial losses. I have to analyse data and understand why this happend.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b></td>
+ <tr>
+<td><b>7</b></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_8.ipynb" target="_blank"><b>Yandex Marketing2 </b></a></td>
+<td>There is a list of different marketing hypothesis. I have to prioritize hypothesis and calculate A/B tests </td>
+<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b>, <b>math</b>, <b>scipy</b>, <b>warnings</b></td>
 </table>
 <br/><br/>
+
+
+## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Additional information:</b></a>
+
+The first 4 projects were translated to English with the help of the [DeepL translator][1], projects 5 - 8 are presented in Russian.
+
+
+[1]: https://www.deepl.com/translator
