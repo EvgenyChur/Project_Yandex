@@ -32,7 +32,7 @@ Projects description:
 <tr>
 <td><b>5</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_5.ipynb" target="_blank"><b>Yandex Games</b></a></td>
-<td>Add new description.</td>
+<td>I'm working in the Internet game market. I have to analyse actual tendencies in computer games and find the prespertive gene and platforms for the next year.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>datetime</b>, <b>scipy</b>, <b>matplotlib</b>, <b>calendar</b>, <b>seaborn</b>, <b>warnings</b>, </td>
 <tr>  
 <td><b>6</b></td>
@@ -41,12 +41,12 @@ Projects description:
 <td><b>SQL</b></td>  
 <tr>
 <td><b>7</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_7.ipynb" target="_blank"><b>Yandex Marketing</b></a></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_7.ipynb" target="_blank"><b>Yandex Marketing </b></a></td>
 <td>There is data with information about marketing. My company suffers financial losses. I have to analyse data and understand why this happend.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b></td>
  <tr>
-<td><b>7</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_8.ipynb" target="_blank"><b>Yandex Marketing2 </b></a></td>
+<td><b>8</b></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_8.ipynb" target="_blank"><b>Yandex Marketing 2 </b></a></td>
 <td>There is a list of different marketing hypothesis. I have to prioritize hypothesis and calculate A/B tests </td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b>, <b>math</b>, <b>scipy</b>, <b>warnings</b></td>
 </table>
