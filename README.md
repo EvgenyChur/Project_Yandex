@@ -44,11 +44,16 @@ Projects description:
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_7.ipynb" target="_blank"><b>Yandex Marketing </b></a></td>
 <td>There is data with information about marketing. My company suffers financial losses. I have to analyse data and understand why this happend.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b></td>
- <tr>
+<tr>
 <td><b>8</b></td>
 <td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_8.ipynb" target="_blank"><b>Yandex Marketing 2 </b></a></td>
 <td>There is a list of different marketing hypothesis. I have to prioritize hypothesis and calculate A/B tests </td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b>, <b>math</b>, <b>scipy</b>, <b>warnings</b></td>
+<tr>
+<td><b>9</b></td>
+<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_9.ipynb" target="_blank"><b>Yandex Market</b></a></td>
+<td>I want to open the new restaurant in Moscow. The project is expensive and I have to find an optimal decision for: 1 - location in Moscow; 2 - thematic of the restaurant; 3 - numbers of visitors; 4 - type of the restaurant. </td>
+<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>warnings</b>, <b>requests</b></td>  
 </table>
 <br/><br/>
 
