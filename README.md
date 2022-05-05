@@ -19,17 +19,21 @@ Projects description:
 <td><b>Project description</b></td>
 <td><b>Used modules</b></td>
 <tr>
+ 
 <td><b>1</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_1.ipynb" target="_blank"><b>Yandex Music</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_1.ipynb" target="_blank"><b>Yandex Music</b></a></td>
 <td>Analyse the music preferences of Moscow and Saint-Petersburg inhabitants based on data received from Yandex Music application.</td> 
 <td><b>pandas</b></td>
 <tr>
+ 
 <td><b>2</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_2.ipynb" target="_blank"><b>Study on the borrowers reliability</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_2.ipynb" target="_blank"><b>Study on the borrowers reliability</b></a></td>
 <td>Client - bank credit department. I have to analyze the role marital status and amount of children on the fact of credit repayment in time. Input data: bank report with information about financial solvency of bank clients.</td>
 <td><b>pandas</b>, <b>numpy</b></td>
+<tr> 
+ 
 <td><b>3</b></td>
-<td><a href="https://github.com/EvgenyChur/Project_Yandex/blob/main/Project_3.ipynb" target="_blank"><b>Study on the offers for apartments sale</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_3.ipynb" target="_blank"><b>Study on the offers for apartments sale</b></a></td>
 <td>I have to analyse archive data with information about the offers for apartments sale in Saint-Petersburg and suburbs areas and find the main parameters effect on marketable value of real estate objects in Saint-Petersburg. Input data: archive data for several years received from Yandex Real Estate application.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
 <tr> 
