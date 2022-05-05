@@ -109,25 +109,25 @@ Projects description:
  
 <td><b>1</b></td>
 <td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_1.ipynb" target="_blank"><b>Decomposition</b></a></td>
-<td>Разбивка задачи проекта на шаги. Составив чёткий план решения задачи и утвердив его с тимлидом, вы избежите лишних доработок и сможете быстрее завершить проект.</td>
+<td>Breaking down the project task into steps. By drawing up a clear plan for solving the problem and approving it with the team leader, you will avoid unnecessary improvements and be able to complete the project faster.</td>
 <td><b></b></td>
 <tr>
- 
+  
 <td><b>2</b></td>
 <td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_2.ipynb" target="_blank"><b>Banks — segmentation of users by consumption</b></a></td>
-<td>Банк в срочном порядке ищет аналитиков c уверенным владением Python. Вашей главной задачей станет сегментирование пользователей банка. Сегментация покажет, как клиенты пользуются нашими услугами. «Метанпромбанк» — деньги не пахнут!</td>
+<td>The bank is urgently looking for analysts with the owner of Python. Your main task is to segment bank users. Segmentation shows how customers use services. "Metanprombank" - money does not smell!</td>
 <td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>matplotlib</b>, <b>sklearn</b>, <b>warnings</b></td>
 <tr>
 
 <td><b>3</b></td>
 <td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_3.ipynb" target="_blank"><b>Project for А/B-tests</b></a></td>
-<td>Предоставлен набор данных с действиями пользователей, которые нужно использовать для выявления последствий от внедрения новой улучшенной системы рекомендаций.</td>
+<td>A set of data is provided with user actions to be used to identify the impact of implementing a new improved recommendation system.</td>
 <td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>scipy</b>, <b>matplotlib</b>, <b>warnings</b></td>
 <tr>
  
 <td><b>4</b></td>
 <td><a href="https://github.com/EvgenyChur/da_yandex_ru/blob/main/part_4.ipynb" target="_blank"><b>Project for SQL requests</b></a></td>
-<td>Коронавирус застал мир врасплох, изменив привычный порядок вещей. В свободное время жители городов больше не выходят на улицу, не посещают кафе и торговые центры. Зато стало больше времени для книг. Это заметили стартаперы — и бросились создавать приложения для тех, кто любит читать. Ваша компания решила быть на волне и купила крупный сервис для чтения книг по подписке. Ваша первая задача как аналитика — проанализировать базу данных.</td>
+<td>COVID-19 has taken the world by surprise, changing the usual order of things. In their free time, city residents no longer go out, do not visit cafes and shopping centers. But there is more time for books. Startupers noticed this and rushed to create applications for those who like to read. Your company decided to be on the wave and bought a large service for reading books by subscription. Your first task as an analyst is to analyze the database.</td>
 <td><b>pandas</b>, <b>sqlalchemy</b></td>
 <tr>
 </table>
@@ -141,7 +141,7 @@ Projects description:
  2. Project dashboards, prepared in Tableau:
     1. [Dashboard][dashboard1] for task - Creating and setting a dashboard
     2. [Dashboard][dashboard2] for final project - Banks — segmentation of users by consumption
- 3. Practical projects in the original language is available [here][english]
+ 3. Practical projects in the original language is available [here][russian]
  
 ## Additional information:
 
