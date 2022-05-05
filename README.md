@@ -96,7 +96,7 @@ Projects description:
 <br/><br/>
 
 ## Final project in butkemp format
-Следующие три недели вы будете джуниор-аналитиком, который решает первые серьёзные задачи от крупных заказчиков. Работать вам предстоит как над крупным проектом, так и над небольшими задачами — всё как в жизни.
+For the next three weeks, you will be a junior analyst who solves the first serious tasks from large customers. You have to work both on a large project and on small tasks - everything is like in life.
 
 Projects description:
 <table>
