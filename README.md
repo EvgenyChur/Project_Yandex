@@ -42,7 +42,6 @@ Projects description:
 <td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_4.ipynb" target="_blank"><b>Definition of prospective tariff plan for telecommunication company</b></a></td> 
 <td>I have to analyse two telecommunication tariff plans (Smart and Ultra) from federal mobile operator - «Megaline» and find the best one.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>scipy</b>, <b>warnings</b>, <b>datetime</b>, <b>calendar</b></td>
-<td><b>4</b></td>
 <tr> 
   
 <td><b>5</b></td> 
