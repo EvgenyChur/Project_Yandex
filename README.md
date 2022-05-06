@@ -21,31 +21,31 @@ Projects description:
 <tr>
  
 <td><b>1</b></td>
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_1.ipynb" target="_blank"><b>Yandex Music</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_1.ipynb" target="_blank"><b>Yandex Music</b></a></td>
 <td>Analyse the music preferences of Moscow and Saint-Petersburg inhabitants based on data received from Yandex Music application.</td> 
 <td><b>pandas</b></td>
 <tr>
  
 <td><b>2</b></td>
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_2.ipynb" target="_blank"><b>Study on the borrowers reliability</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_2.ipynb" target="_blank"><b>Study on the borrowers reliability</b></a></td>
 <td>Client - bank credit department. I have to analyze the role marital status and amount of children on the fact of credit repayment in time. Input data: bank report with information about financial solvency of bank clients.</td>
 <td><b>pandas</b>, <b>numpy</b></td>
 <tr> 
  
 <td><b>3</b></td>
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_3.ipynb" target="_blank"><b>Study on the offers for apartments sale</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_3.ipynb" target="_blank"><b>Study on the offers for apartments sale</b></a></td>
 <td>I have to analyse archive data with information about the offers for apartments sale in Saint-Petersburg and suburbs areas and find the main parameters effect on marketable value of real estate objects in Saint-Petersburg. Input data: archive data for several years received from Yandex Real Estate application.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>warnings</b>, <b>datetime</b></td>
 <tr> 
  
 <td><b>4</b></td> 
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_4.ipynb" target="_blank"><b>Definition of prospective tariff plan for telecommunication company</b></a></td> 
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_4.ipynb" target="_blank"><b>Definition of prospective tariff plan for telecommunication company</b></a></td> 
 <td>I have to analyse two telecommunication tariff plans (Smart and Ultra) from federal mobile operator - «Megaline» and find the best one.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>scipy</b>, <b>warnings</b>, <b>datetime</b>, <b>calendar</b></td>
 <tr> 
   
 <td><b>5</b></td> 
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_5.ipynb" target="_blank"><b>Study on the offers for computer games sale</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_5.ipynb" target="_blank"><b>Study on the offers for computer games sale</b></a></td>
 <td> I have to analyse the historical data with information about computer games sales from different platforms (e.g.: Xbox, PlayStation, PC) and find the regularities that determine the game success. Also, I have to prepare my recommendations for the Internet game market - "Strimchik" and create a special list with the most prespective games, platforms and genres for next year.</td> 
 <td><b>pandas</b>, <b>numpy</b>, <b>datetime</b>, <b>scipy</b>, <b>matplotlib</b>, <b>calendar</b>, <b>seaborn</b>, <b>warnings</b>, </td>
 <tr>
@@ -57,19 +57,19 @@ Projects description:
 <tr>  
 
 <td><b>7</b></td>
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_7.ipynb" target="_blank"><b>Analysis of business indicators</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_7.ipynb" target="_blank"><b>Analysis of business indicators</b></a></td>
 <td>I'm marketing analytic of entertainment company Procrastinate Pro+. In spite of huge investment in marketing, last months company lose money. I have to analyse data and find the main causes of material losses and help company get a positive balance.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b></td>
 <tr> 
 
 <td><b>8</b></td>
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_8.ipynb" target="_blank"><b>Analysis of business indicators 2</b></a></td> 
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_8.ipynb" target="_blank"><b>Analysis of business indicators 2</b></a></td> 
 <td>I'm marketing analytic of a large online store. Together with marketing department, we have prepared a list of different hypothesis for increasing in revenue. I have to prioritize hypothesis, run and analyse the results of A/B tests.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>datetime</b>, <b>math</b>, <b>scipy</b>, <b>warnings</b></td>
 <tr>
 
 <td><b>9</b></td>
-<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/Project_9.ipynb" target="_blank"><b>Market of catering establishments in Moscow</b></a></td>
+<td><a href="https://github.com/EvgenyChur/da_yandex_en/blob/main/project_9.ipynb" target="_blank"><b>Market of catering establishments in Moscow</b></a></td>
 <td>I would like to open the new restaurant in Moscow. My cafe is original - guests must be served by robots. The project is perspective, but expensive. Together with business partners, we contacted with investors. Investors want to know the real situation on market of catering establishments in Moscow for better understanding our perspectives.</td>
 <td><b>math</b>, <b>numpy</b>, <b>pandas</b>, <b>datetime</b>, <b>seaborn</b>, <b>scipy</b>, <b>matplotlib</b>, <b>requests</b>, <b>BytesIO</b>, <b>warnings</b></td>
 <tr>
